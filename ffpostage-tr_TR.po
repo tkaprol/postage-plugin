@@ -1,0 +1,346 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Week Calendar\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-03-12 13:15+0200\n"
+"PO-Revision-Date: 2012-03-12 13:16+0200\n"
+"Last-Translator: Tolga Kaprol <tolgakaprol@gmail.com>\n"
+"Language-Team: Codementors\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e;_c\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Language: Turkish\n"
+"X-Poedit-Country: TURKEY\n"
+"X-Poedit-SearchPath-0: wp-week-calendar\n"
+
+#: wp-week-calendar/wwc.class.php:68
+msgid "Week Calendar"
+msgstr "Günlük Takvim"
+
+#: wp-week-calendar/wwc.class.php:69
+msgid "Settings"
+msgstr ""
+
+#: wp-week-calendar/wwc.class.php:70
+msgid "Setup"
+msgstr ""
+
+#: wp-week-calendar/wwc.class.php:111
+msgid "Today"
+msgstr "Bugün"
+
+#: wp-week-calendar/wwc.class.php:112
+msgid "Previous"
+msgstr "Öncesi"
+
+#: wp-week-calendar/wwc.class.php:113
+msgid "Next"
+msgstr "Sonrası"
+
+#: wp-week-calendar/wwc.class.php:115
+msgid "Jan"
+msgstr ""
+
+#: wp-week-calendar/wwc.class.php:115
+msgid "Feb"
+msgstr ""
+
+#: wp-week-calendar/wwc.class.php:115
+msgid "Mar"
+msgstr ""
+
+#: wp-week-calendar/wwc.class.php:115
+msgid "Apr"
+msgstr ""
+
+#: wp-week-calendar/wwc.class.php:115
+#: wp-week-calendar/wwc.class.php:116
+msgid "May"
+msgstr ""
+
+#: wp-week-calendar/wwc.class.php:115
+msgid "Jun"
+msgstr ""
+
+#: wp-week-calendar/wwc.class.php:115
+msgid "Jul"
+msgstr ""
+
+#: wp-week-calendar/wwc.class.php:115
+msgid "Aug"
+msgstr ""
+
+#: wp-week-calendar/wwc.class.php:115
+msgid "Sep"
+msgstr ""
+
+#: wp-week-calendar/wwc.class.php:115
+msgid "Oct"
+msgstr ""
+
+#: wp-week-calendar/wwc.class.php:115
+msgid "Nov"
+msgstr ""
+
+#: wp-week-calendar/wwc.class.php:115
+msgid "Dec"
+msgstr ""
+
+#: wp-week-calendar/wwc.class.php:116
+msgid "January"
+msgstr ""
+
+#: wp-week-calendar/wwc.class.php:116
+msgid "February"
+msgstr ""
+
+#: wp-week-calendar/wwc.class.php:116
+msgid "March"
+msgstr "Mart"
+
+#: wp-week-calendar/wwc.class.php:116
+msgid "April"
+msgstr ""
+
+#: wp-week-calendar/wwc.class.php:116
+msgid "June"
+msgstr ""
+
+#: wp-week-calendar/wwc.class.php:116
+msgid "July"
+msgstr ""
+
+#: wp-week-calendar/wwc.class.php:116
+msgid "August"
+msgstr ""
+
+#: wp-week-calendar/wwc.class.php:116
+msgid "September"
+msgstr ""
+
+#: wp-week-calendar/wwc.class.php:116
+msgid "October"
+msgstr "Ekim"
+
+#: wp-week-calendar/wwc.class.php:116
+msgid "November"
+msgstr ""
+
+#: wp-week-calendar/wwc.class.php:116
+msgid "December"
+msgstr ""
+
+#: wp-week-calendar/wwc.class.php:117
+msgid "Sun"
+msgstr ""
+
+#: wp-week-calendar/wwc.class.php:117
+msgid "Mon"
+msgstr ""
+
+#: wp-week-calendar/wwc.class.php:117
+msgid "Tue"
+msgstr ""
+
+#: wp-week-calendar/wwc.class.php:117
+msgid "Wed"
+msgstr ""
+
+#: wp-week-calendar/wwc.class.php:117
+msgid "Thu"
+msgstr ""
+
+#: wp-week-calendar/wwc.class.php:117
+msgid "Fri"
+msgstr ""
+
+#: wp-week-calendar/wwc.class.php:117
+msgid "Sat"
+msgstr ""
+
+#: wp-week-calendar/wwc.class.php:118
+msgid "Sunday"
+msgstr ""
+
+#: wp-week-calendar/wwc.class.php:118
+msgid "Monday"
+msgstr ""
+
+#: wp-week-calendar/wwc.class.php:118
+msgid "Tuesday"
+msgstr ""
+
+#: wp-week-calendar/wwc.class.php:118
+msgid "Wednesday"
+msgstr ""
+
+#: wp-week-calendar/wwc.class.php:118
+msgid "Thursday"
+msgstr ""
+
+#: wp-week-calendar/wwc.class.php:118
+msgid "Friday"
+msgstr ""
+
+#: wp-week-calendar/wwc.class.php:118
+msgid "Saturday"
+msgstr ""
+
+#: wp-week-calendar/wwc.class.php:156
+msgid "Calendar"
+msgstr "Takvim"
+
+#~ msgid "Headers Sent"
+#~ msgstr "Sayfa Başlıkları Gönderilmiş"
+
+#~ msgid "Company Owner"
+#~ msgstr "Firma Sahibi"
+
+#~ msgid "Companies"
+#~ msgstr "Firmalar"
+
+#~ msgid "Company"
+#~ msgstr "Firma"
+
+#~ msgid "Add Company"
+#~ msgstr "Firma Ekle"
+
+#~ msgid "New Company"
+#~ msgstr "Yeni Firma"
+
+#~ msgid "Edit Company"
+#~ msgstr "Firmayı Düzenle"
+
+#~ msgid "All Companies"
+#~ msgstr "Tüm Firmalar"
+
+#~ msgid "View Company"
+#~ msgstr "Firmayı Görüntüle"
+
+#~ msgid "Search Company"
+#~ msgstr "Firma Ara"
+
+#~ msgid "No Company"
+#~ msgstr "Firma Bulunamadı"
+
+#~ msgid "Couldn't find any deleted company."
+#~ msgstr "Silinmiş Firma Bulunamadı"
+
+#~ msgid "News"
+#~ msgstr "Haberler"
+
+#~ msgid "Add News"
+#~ msgstr "Haber Ekle"
+
+#~ msgid "Edit News"
+#~ msgstr "Haber Düzenle"
+
+#~ msgid "All News"
+#~ msgstr "Tüm Haberler"
+
+#~ msgid "View News"
+#~ msgstr "Haber Göster"
+
+#~ msgid "Search News"
+#~ msgstr "Haber Ara"
+
+#~ msgid "No News"
+#~ msgstr "Haber Yok"
+
+#~ msgid "Couldn't find any deleted news."
+#~ msgstr "Silinmiş Haber Bulunamadı"
+
+#~ msgid "Pending Review"
+#~ msgstr "Kontrol bekleyen"
+
+#~ msgid "Sectors"
+#~ msgstr "Sektörler"
+
+#~ msgid "Search Sector"
+#~ msgstr "Sektör Ara"
+
+#~ msgid "Sub Sectors"
+#~ msgstr "Alt Sektörler"
+
+#~ msgid "Sub Sector:"
+#~ msgstr "Alt Sektör:"
+
+#~ msgid "Edit Sector"
+#~ msgstr "Sektör Düzenle"
+
+#~ msgid "Update Sector"
+#~ msgstr "Sektörü Güncelle"
+
+#~ msgid "Add Sector"
+#~ msgstr "Sektör Ekle"
+
+#~ msgid "Sector Name"
+#~ msgstr "Sektör Adı"
+
+#~ msgid "Skills"
+#~ msgstr "İlgi Alanları"
+
+#~ msgid "Skill"
+#~ msgstr "İlgi Alanı"
+
+#~ msgid "Search Skill"
+#~ msgstr "İlgi Alanı Ara"
+
+#~ msgid "Edit Skill"
+#~ msgstr "İlgi Alanı Düzenle"
+
+#~ msgid "Update Skill"
+#~ msgstr "İlgi Alanını Güncelle"
+
+#~ msgid "Add New Skill"
+#~ msgstr "İlgi Alanı Ekle"
+
+#~ msgid "New Skill"
+#~ msgstr "Yeni İlgi Alanı"
+
+#~ msgid "Locations"
+#~ msgstr "Yer Birimleri"
+
+#~ msgid "Location"
+#~ msgstr "Yer Birimi"
+
+#~ msgid "Search Locations"
+#~ msgstr "Yer Birimi Ara"
+
+#~ msgid "All Locations"
+#~ msgstr "Tüm Yer Birimleri"
+
+#~ msgid "Parent Location"
+#~ msgstr "Alt Yer Birimi"
+
+#~ msgid "Parent Location:"
+#~ msgstr "Alt Yer Birimi:"
+
+#~ msgid "Edit Location"
+#~ msgstr "Yer Birimini Düzenle"
+
+#~ msgid "Update Location"
+#~ msgstr "Yer Birimini Güncelle"
+
+#~ msgid "Add New Location"
+#~ msgstr "Yer Birimi Ekle"
+
+#~ msgid "New Location Name"
+#~ msgstr "Yeni Yer Birimi"
+
+#~ msgid "Sektörler"
+#~ msgstr "Sectors"
+
+#~ msgid "Sektör"
+#~ msgstr "Sector"
+
+#~ msgid "Sektör Ara"
+#~ msgstr "Search Sector"
+
+#~ msgid "Firmalar"
+#~ msgstr "Companies"
+
+#~ msgid "Firma"
+#~ msgstr "Company"
