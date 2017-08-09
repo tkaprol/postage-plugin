@@ -2,7 +2,7 @@
 
 This WordPress plugin allows to send e-mails from Postageapp.com. 
 
-This plugin was tested at 3.5.1 
+This plugin was tested at 3.5.1. Please create an issue for any feedback.
 
 ## Contents
 
