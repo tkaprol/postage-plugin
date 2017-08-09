@@ -2,19 +2,14 @@
 
 This WordPress plugin allows to send e-mails from Postageapp.com. 
 
+This plugin was tested at 3.5.1 
+
 ## Contents
 
 The WordPress Plugin includes the following files:
 
 * `.gitignore`. Used to exclude certain files from the repository.
 * `README.md`. The file that you’re currently reading.
-
-## Features
-
-* The Boilerplate is based on the [Plugin API](http://codex.wordpress.org/Plugin_API), [Coding Standards](http://codex.wordpress.org/WordPress_Coding_Standards), and [Documentation Standards](https://make.wordpress.org/core/handbook/best-practices/inline-documentation-standards/php/).
-* All classes, functions, and variables are documented so that you know what you need to be changed.
-* The Boilerplate uses a strict file organization scheme that correspond both to the WordPress Plugin Repository structure, and that make it easy to organize the files that compose the plugin.
-* The project includes a `.pot` file as a starting point for internationalization.
 
 ## Installation
 
